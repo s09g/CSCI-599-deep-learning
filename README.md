@@ -1,1 +1,10 @@
-# ACM-training
+# CSCI 599 deep learning
+
+---
+
++ [x] Assignment 1
++ [ ] Assignment 2
++ [ ] Project
+
+---
+### USC CSCI 599 Deep Learning Course
