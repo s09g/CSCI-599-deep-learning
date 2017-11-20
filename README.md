@@ -4,7 +4,7 @@
 
 + [x] take home exam
 + [x] Assignment 1
-+ [ ] Assignment 2
++ [x] Assignment 2
 + [ ] Project
 
 ---
